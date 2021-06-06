@@ -13,3 +13,6 @@
 ##### url: outfit-lexe-shop.surge.sh
 
 #### syntax: surge . outfit-lexe-shop.surge.sh
+
+##link : http://outfit-lexe-shop.surge.sh/products
+
